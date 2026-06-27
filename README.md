@@ -1,6 +1,6 @@
-# Cryptography — COMP09106
+# Cryptography
 
-**Module:** COMP09106 Cryptography  
+**Module:** Cryptography  
 **Degree:** BEng (Hons) Cyber Security, University of the West of Scotland  
 **Instructor:** Dr. Althaff Mohideen  
 **Grade:** First-class band  
